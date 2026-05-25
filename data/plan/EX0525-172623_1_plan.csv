@@ -1,0 +1,14 @@
+experiment_id,experiment_type,subject_id,note,random_seed,created_at,order_index,block_index,condition_id,mode,direction_percent,first_half_direction_percent,second_half_direction_percent,pulse_duration_ms,pulse_phase,sine_amplitude_percent,sine_period_steps
+EX0525-172623,experiment_2,1,,177214,2026-05-25T17:26:23.079798,1,0,B01,baseline,,,,,,,
+EX0525-172623,experiment_2,1,,177214,2026-05-25T17:26:23.079798,2,1,S07,sine,,,,,P_start,20,240
+EX0525-172623,experiment_2,1,,177214,2026-05-25T17:26:23.079798,3,1,S11,sine,,,,,P_end,20,240
+EX0525-172623,experiment_2,1,,177214,2026-05-25T17:26:23.079798,4,1,S09,sine,,,,,P_mid,20,240
+EX0525-172623,experiment_2,1,,177214,2026-05-25T17:26:23.079798,5,1,S02,sine,,,,,P_end,20,240
+EX0525-172623,experiment_2,1,,177214,2026-05-25T17:26:23.079798,6,1,S01,sine,,,,,P_start,20,240
+EX0525-172623,experiment_2,1,,177214,2026-05-25T17:26:23.079798,7,1,S12,sine,,,,,P_mid,20,240
+EX0525-172623,experiment_2,1,,177214,2026-05-25T17:26:23.079798,8,2,S08,sine,,,,,P_end,20,240
+EX0525-172623,experiment_2,1,,177214,2026-05-25T17:26:23.079798,9,2,S03,sine,,,,,P_mid,20,240
+EX0525-172623,experiment_2,1,,177214,2026-05-25T17:26:23.079798,10,2,S05,sine,,,,,P_end,20,240
+EX0525-172623,experiment_2,1,,177214,2026-05-25T17:26:23.079798,11,2,S10,sine,,,,,P_start,20,240
+EX0525-172623,experiment_2,1,,177214,2026-05-25T17:26:23.079798,12,2,S06,sine,,,,,P_mid,20,240
+EX0525-172623,experiment_2,1,,177214,2026-05-25T17:26:23.079798,13,2,S04,sine,,,,,P_start,20,240
