@@ -1,0 +1,5 @@
+experiment_id,experiment_type,subject_id,note,random_seed,created_at,order_index,block_index,condition_id,mode,direction_percent,first_half_direction_percent,second_half_direction_percent,pulse_duration_ms,pulse_phase,sine_amplitude_percent,sine_period_steps,sine_phase_offset
+EX0604-190855,experiment_3,1,,331723,2026-06-04T19:08:55.181455,1,0,B01,baseline,,,,,,,,
+EX0604-190855,experiment_3,1,,331723,2026-06-04T19:08:55.181455,2,1,EFF,pulse,0,0,0,250,P_mid,,,
+EX0604-190855,experiment_3,1,,331723,2026-06-04T19:08:55.181455,3,2,ETO,pulse,0,0,0,250,P_end,,,
+EX0604-190855,experiment_3,1,,331723,2026-06-04T19:08:55.181455,4,3,EIC,pulse,0,0,0,250,P_start,,,
