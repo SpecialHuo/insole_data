@@ -1,0 +1,4 @@
+experiment_id,experiment_type,subject_id,note,random_seed,created_at,order_index,block_index,condition_id,mode,direction_percent,first_half_direction_percent,second_half_direction_percent,pulse_duration_ms,pulse_phase,sine_amplitude_percent,sine_period_steps,sine_phase_offset
+EX0623-162253,experiment_4,1,,969939,2026-06-23T16:22:53.768939,1,0,B01,baseline,,,,,,,,
+EX0623-162253,experiment_4,1,,969939,2026-06-23T16:22:53.768939,2,1,ALT,alternating_stride,,,,0,,,,
+EX0623-162253,experiment_4,1,,969939,2026-06-23T16:22:53.768939,3,2,GF,gait_follow,,,,250,P_mid,,,
