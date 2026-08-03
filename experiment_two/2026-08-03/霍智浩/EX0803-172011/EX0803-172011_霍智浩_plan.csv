@@ -1,0 +1,14 @@
+experiment_id,experiment_type,subject_id,note,random_seed,created_at,order_index,block_index,condition_id,mode,direction_percent,first_half_direction_percent,second_half_direction_percent,pulse_duration_ms,pulse_phase,sine_amplitude_percent,sine_period_steps,sine_phase_offset
+EX0803-172011,experiment_2,霍智浩,,807625,2026-08-03T17:20:11.657704,1,0,B01,baseline,,,,,,,,
+EX0803-172011,experiment_2,霍智浩,,807625,2026-08-03T17:20:11.657704,2,1,S03,sine,,,,150,P_mid,20,240,pi
+EX0803-172011,experiment_2,霍智浩,,807625,2026-08-03T17:20:11.657704,3,1,S06,sine,,,,200,P_mid,20,240,pi
+EX0803-172011,experiment_2,霍智浩,,807625,2026-08-03T17:20:11.657704,4,1,S08,sine,,,,250,P_end,20,240,0
+EX0803-172011,experiment_2,霍智浩,,807625,2026-08-03T17:20:11.657704,5,1,S04,sine,,,,200,P_start,20,240,0
+EX0803-172011,experiment_2,霍智浩,,807625,2026-08-03T17:20:11.657704,6,1,S10,sine,,,,300,P_start,20,240,pi
+EX0803-172011,experiment_2,霍智浩,,807625,2026-08-03T17:20:11.657704,7,1,S09,sine,,,,250,P_mid,20,240,pi
+EX0803-172011,experiment_2,霍智浩,,807625,2026-08-03T17:20:11.657704,8,2,S12,sine,,,,300,P_mid,20,240,pi
+EX0803-172011,experiment_2,霍智浩,,807625,2026-08-03T17:20:11.657704,9,2,S02,sine,,,,150,P_end,20,240,0
+EX0803-172011,experiment_2,霍智浩,,807625,2026-08-03T17:20:11.657704,10,2,S01,sine,,,,150,P_start,20,240,0
+EX0803-172011,experiment_2,霍智浩,,807625,2026-08-03T17:20:11.657704,11,2,S05,sine,,,,200,P_end,20,240,0
+EX0803-172011,experiment_2,霍智浩,,807625,2026-08-03T17:20:11.657704,12,2,S07,sine,,,,250,P_start,20,240,0
+EX0803-172011,experiment_2,霍智浩,,807625,2026-08-03T17:20:11.657704,13,2,S11,sine,,,,300,P_end,20,240,pi
