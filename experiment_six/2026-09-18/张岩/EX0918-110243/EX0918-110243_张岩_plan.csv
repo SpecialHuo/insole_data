@@ -1,0 +1,4 @@
+experiment_id,experiment_type,subject_id,note,random_seed,created_at,order_index,block_index,condition_id,mode,direction_percent,first_half_direction_percent,second_half_direction_percent,pulse_duration_ms,pulse_phase,sine_amplitude_percent,sine_period_steps,sine_phase_offset,region_mask
+EX0918-110243,experiment_6,张岩,,558707,2026-09-18T11:02:43.518054,1,1,ETO,pulse,0,0,0,250,P_end,,,,
+EX0918-110243,experiment_6,张岩,,558707,2026-09-18T11:02:43.518054,2,2,EIC,pulse,0,0,0,250,P_start,,,,
+EX0918-110243,experiment_6,张岩,,558707,2026-09-18T11:02:43.518054,3,3,EHO,pulse,0,0,0,250,P_mid,,,,
