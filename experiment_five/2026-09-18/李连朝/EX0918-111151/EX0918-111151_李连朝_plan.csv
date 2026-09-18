@@ -1,0 +1,6 @@
+experiment_id,experiment_type,subject_id,note,random_seed,created_at,order_index,block_index,condition_id,mode,direction_percent,first_half_direction_percent,second_half_direction_percent,pulse_duration_ms,pulse_phase,sine_amplitude_percent,sine_period_steps,sine_phase_offset,region_mask
+EX0918-111151,experiment_5,李连朝,,91771,2026-09-18T11:11:51.686227,1,0,B01,baseline,,,,,,,,,
+EX0918-111151,experiment_5,李连朝,,91771,2026-09-18T11:11:51.686227,2,1,REAR,sine,,,,200,P_end,20,240,pi,4
+EX0918-111151,experiment_5,李连朝,,91771,2026-09-18T11:11:51.686227,3,2,FRONT,sine,,,,200,P_end,20,240,0,1
+EX0918-111151,experiment_5,李连朝,,91771,2026-09-18T11:11:51.686227,4,3,MIDDLE,sine,,,,200,P_end,20,240,pi,2
+EX0918-111151,experiment_5,李连朝,,91771,2026-09-18T11:11:51.686227,5,4,ALL,sine,,,,200,P_end,20,240,0,7
