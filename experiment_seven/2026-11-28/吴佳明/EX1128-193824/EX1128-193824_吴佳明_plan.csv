@@ -1,0 +1,5 @@
+experiment_id,experiment_type,subject_id,note,random_seed,created_at,order_index,block_index,condition_id,mode,direction_percent,first_half_direction_percent,second_half_direction_percent,pulse_duration_ms,pulse_phase,sine_amplitude_percent,sine_period_steps,sine_phase_offset,region_mask,recovery_format
+EX1128-193824,experiment_7,吴佳明,,900497,2026-11-28T19:38:24.365642,1,0,B01,baseline,,,,,,,,,,insole-experiment-recovery-v1
+EX1128-193824,experiment_7,吴佳明,,900497,2026-11-28T19:38:24.365642,2,1,RIGHT,sine,,,,200,P_end,20,240,pi,7,insole-experiment-recovery-v1
+EX1128-193824,experiment_7,吴佳明,,900497,2026-11-28T19:38:24.365642,3,2,BOTH,sine,,,,200,P_end,20,240,0,7,insole-experiment-recovery-v1
+EX1128-193824,experiment_7,吴佳明,,900497,2026-11-28T19:38:24.365642,4,3,LEFT,sine,,,,200,P_end,20,240,pi,7,insole-experiment-recovery-v1
